@@ -1,4 +1,4 @@
-# Java Algorithmic Thinking :)
+﻿# Java Algorithmic Thinking :)
 
 ### Proje Kurulumu
 

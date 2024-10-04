@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="FSWEB-S13D2-Java-Projesi" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="FSWEB-S13D2-Java-Projesi" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
