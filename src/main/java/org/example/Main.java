@@ -38,7 +38,7 @@ public class Main {
             return "Invalid Value" ;
         }
         else{
-            String[] words = {"zero","one","two","three","four","five","six","seven","eight","nine"};
+            String[] words = {"Zero","One","Two","Three","Four","Five","Six","Seven","Eight","Nine"};
 
             String strNumber = String.valueOf(number);
 
